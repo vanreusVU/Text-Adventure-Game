@@ -1,0 +1,1 @@
+java -jar software-design-vu-2020.jar
